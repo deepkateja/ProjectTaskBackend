@@ -43,6 +43,7 @@ run **python manage.py createsuperuser**
   Password: 
   
   Confirm Password:
+  Please Confirm
   
 Step 6: Run the server
 
